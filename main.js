@@ -69,7 +69,7 @@ submit.addEventListener('click', () => {
     }
     if (checkboxStatus.checked && num == 3) //Rugby was checked
     {
-        document.getElementById("rugby").src = "rugby.avif"
+        document.getElementById("rugby").src = "rugby.jpeg"
     }
     checkboxStatus.checked = false;
     num++;
